@@ -1,0 +1,31 @@
+.darken {
+  filter: brightness(20%);
+}
+
+/* Apply to the element with the scrollbar (usually body, div, etc.) */
+::-webkit-scrollbar {
+  width: 8px; /* Thin scrollbar width */
+  height: 8px; /* Thin horizontal scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent thumb */
+  border-radius: 10px; /* Rounded thumb edges */
+  transition: background-color 0.3s ease-in-out; /* Smooth transition effect */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.6); /* Darker thumb color on hover */
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.1
+  ); /* Light color for the scrollbar track */
+  border-radius: 10px; /* Rounded track */
+}
+
+
