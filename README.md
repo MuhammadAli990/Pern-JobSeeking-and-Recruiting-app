@@ -2,7 +2,7 @@
 
 Welcome to the Job Seeking & Recruiting System! 🎉 This is a full-stack web application built using the **PERN stack** (PostgreSQL, Express, React, Node) to connect job seekers and recruiters. 🤝 Whether you're a job seeker looking for your next opportunity or a recruiter looking for talent, this platform provides all the tools you need! 🌟
 
-[Watch Demo](https://www.linkedin.com/posts/muhammad-ali-666b372aa_%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%A6%F0%9D%90%B2-%F0%9D%90%A5-activity-7279147623343665152-WWNu?utm_source=share&utm_medium=member_desktop)
+[Watch Demo](https://www.linkedin.com/feed/update/urn:li:activity:7279147623343665152/)
 
 ## Features ✨
 
